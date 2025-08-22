@@ -39,7 +39,6 @@
 - **Kernel performance** tuning  
 
 ## 👯 Looking to Collaborate On
-- Open-source **custom ROM projects**  
 - Build scripts and automation tools  
 
 ## 🤔 Looking for Help With
