@@ -3,11 +3,11 @@
 <p align="center">
   <picture>
     <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&background=00000000&width=500&lines=Custom+ROM+Developer;Android+Enthusiast;Code+Explorer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&colorList=00F7FF,FF6F61,FFD700,ADFF2F,FF69B4&background=00000000&width=550&lines=Custom+ROM+Developer;Android+Enthusiast;Code+Explorer" />
     <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000000&background=00000000&width=500&lines=Custom+ROM+Developer;Android+Enthusiast;Code+Explorer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&colorList=000000,FF4500,008000,0000FF,8A2BE2&background=00000000&width=550&lines=Custom+ROM+Developer;Android+Enthusiast;Code+Explorer" />
     <!-- Fallback -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&background=00000000&width=500&lines=Custom+ROM+Developer;Android+Enthusiast;Code+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&colorList=00F7FF,FF6F61,FFD700,ADFF2F,FF69B4&background=00000000&width=550&lines=Custom+ROM+Developer;Android+Enthusiast;Code+Explorer" alt="Typing SVG" />
   </picture>
 </p>
 
