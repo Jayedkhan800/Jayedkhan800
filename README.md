@@ -14,29 +14,27 @@
 
 ### 🔭 Current Work
 - Developing and customizing **Android ROMs** 🛠️
-- Working on **kernel, makefiles, scripts, and patches**
+- Working on **makefiles, scripts, and patches**
 - Experimenting with **Python, Bash, and C** for automation and system tools
 
 ### 🌱 Currently Learning
 - Advanced **Android system internals**
 - Optimizing **build systems** for faster ROM compilation
 - Cross-platform **automation scripts** in Python & Bash
+- Optimize Kernel performance 
 
 ### 👯 Looking to Collaborate On
 - Open-source **custom ROM projects**
-- Kernel tweaks and optimizations
 - Build scripts and automation tools
 
 ### 🤔 Looking for Help With
-- Android device-specific **kernel issues**
+- Android device-specific **Device tree, Sepolicy**
 - Complex **Makefile configurations**
 - System performance optimizations
 
 ### 💬 Ask Me About
 - Android ROM development & customization
-- Kernel building and patching
 - Bash, Python, and C programming
-- Debugging and system automation
 
 ### ⚡ Fun Fact
 - I love tweaking Android systems and making devices run smoother than ever 🚀
