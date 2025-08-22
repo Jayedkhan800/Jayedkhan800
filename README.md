@@ -7,7 +7,7 @@
     <!-- Light mode -->
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000000&background=00000000&width=500&lines=Custom+ROM+Developer;Android+Enthusiast;Code+Explorer" />
     <!-- Fallback -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&background=00000000&width=500&lines=Custom+ROM+Developer;Android+Enthusiast;Code+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&background=00000000&width=500&lines=Custom+ROM+Developer;Code+Explorer" alt="Typing SVG" />
   </picture>
 </p>
 
