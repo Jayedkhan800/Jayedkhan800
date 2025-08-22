@@ -2,10 +2,10 @@
 <h3 align="center">Custom ROM Developer | Android Enthusiast | Code Explorer</h3>
 
 <p align="center">
-  <a href="https://t.me/YourTelegramUsername" target="_blank">
+  <a href="https://t.me/Jayedkhan70" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" />
   </a>
-  <a href="https://github.com/Jsyef" target="_blank">
+  <a href="https://github.com/Jayedkhan800" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
