@@ -70,13 +70,3 @@
 - Always curious to learn new tech tricks and coding hacks 😄
 
 ---
-
-### 🛠️ Skills & Tools
-<p align="center">
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="Makefile" src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=make&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
