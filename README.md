@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Jsyef</h1>
+<h1 align="center">Hi there 👋, I'm Jayed</h1>
 <h3 align="center">Custom ROM Developer | Android Enthusiast | Code Explorer</h3>
 
 <p align="center">
