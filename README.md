@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Jayed</h1>
-<h3 align="center">Custom ROM Developer | Android Enthusiast | Code Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&background=00000000&width=500&lines=Custom+ROM+Developer;Android+Enthusiast;Code+Explorer" />
+</p>
 
 <p align="center">
   <a href="https://t.me/Jayedkhan70" target="_blank">
@@ -21,7 +24,7 @@
 - Advanced **Android system internals**
 - Optimizing **build systems** for faster ROM compilation
 - Cross-platform **automation scripts** in Python & Bash
-- Optimize Kernel performance 
+- Optimizing **Kernel performance**
 
 ### 👯 Looking to Collaborate On
 - Open-source **custom ROM projects**
@@ -31,6 +34,41 @@
 - Android device-specific **Device tree, Sepolicy**
 - Complex **Makefile configurations**
 - System performance optimizations
+
+### 💬 Ask Me About
+- Android ROM development & customization
+- Bash, Python, and C programming
+
+### ⚡ Fun Fact
+- I love tweaking Android systems and making devices run smoother than ever 🚀
+- Always curious to learn new tech tricks and coding hacks 😄
+
+---
+
+### 🛠️ Skills & Tools
+<p align="center">
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="Makefile" src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=make&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayedkhan800&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayedkhan800&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🎯 Animated Fun
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" />
+</p>- System performance optimizations
 
 ### 💬 Ask Me About
 - Android ROM development & customization
