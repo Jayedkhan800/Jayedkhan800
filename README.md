@@ -25,7 +25,12 @@
 ## 🔭 Current Work
 - Developing and customizing **Android ROMs** 🛠️  
 - Working on **makefiles, scripts, and patches**  
-- Experimenting with **Python, Bash, and C** for automation and system tools  
+- Experimenting with **Python, Bash, and C** for automation and system tools
+  
+<p align="center">
+  <!-- Developer coding animation -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
+</p>
 
 ## 🌱 Currently Learning
 - Advanced **Android system internals**  
